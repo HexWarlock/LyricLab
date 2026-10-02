@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Docs/" />
+  <Folder Name="/Docs/Specifications/">
+    <File Path="Docs/Specifications/LYRIC_LAB_V1_SPECIFICATION.md" />
+  </Folder>
+  <Project Path="LyricLab/LyricLab.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
