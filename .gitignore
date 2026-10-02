@@ -1,0 +1,35 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET tooling
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nuget.g.props
+*.nuget.g.targets
+
+# MAUI / platform build and signing artifacts
+*.apk
+*.aab
+*.ipa
+*.appx
+*.msix
+*.p12
+*.mobileprovision
+*.keystore
+*.jks
+
+# IDE and OS files
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
